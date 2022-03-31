@@ -1,0 +1,23 @@
+{
+	"edata": [{
+			"eid": "1",
+			"Email": "abc1@gmail.com",
+			"workingdays": [15, 20, 21, 16, 17, 18, 18, 16, 19, 22, 22, 20]
+		},
+		{
+			"eid": "2",
+			"Email": "abc2@hackermail.com",
+			"workingdays": [18, 20, 21, 16, 17, 20, 18, 22, 19, 22, 22, 20]
+		},
+		{
+			"eid": "3",
+			"Email": "abc3@engineer.com",
+			"workingdays": [17, 20, 21, 16, 20, 20, 20, 22, 19, 22, 22, 20]
+		},
+		{
+			"eid": "4",
+			"Email": "abc4@fastservice.com",
+			"workingdays": [22, 20, 21, 18, 20, 20, 20, 22, 19, 22, 22, 20]
+		}
+	]
+}
